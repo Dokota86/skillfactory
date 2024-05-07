@@ -1,2 +1,2 @@
-![1](https://i.ibb.co/vcwFHrN/1.png)
-![2](https://i.ibb.co/m6pKdSd/2.png)
+![1](https://github.com/Dokota86/SkillFactoryPublic/blob/main/Practice/1.png)
+![2](https://github.com/Dokota86/SkillFactoryPublic/blob/main/Practice/2.png)
